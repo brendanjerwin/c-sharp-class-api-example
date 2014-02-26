@@ -1,0 +1,10 @@
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/bin/Debug/c-sharp-class-api-example.exe.mdb
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/bin/Debug/c-sharp-class-api-example.exe
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/obj/x86/Debug/c-sharp-class-api-example.exe
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/obj/x86/Debug/c-sharp-class-api-example.exe.mdb
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/bin/Debug/Newtonsoft.Json.dll
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/bin/Debug/RestSharp.dll
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/bin/Debug/Hammock.ClientProfile.dll
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/bin/Debug/Hammock.dll
+/Users/brendanjerwin/Projects/c-sharp-class-api-example/c-sharp-class-api-example/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
